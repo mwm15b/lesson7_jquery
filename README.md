@@ -13,8 +13,7 @@ Michael Meyers
 This assignment uses the jQuery library and its functions to show how easy creating JavaScript files can be.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mwm15b.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. Reusing code with the help of libraries.
